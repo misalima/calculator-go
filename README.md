@@ -6,7 +6,6 @@ This is a simple command-line calculator application I made in Golang to practic
 Before running the calculator application, ensure that you have the following requirements met:
 
 - Go programming language installed ([Download Go](https://golang.org/dl/))
-- `github.com/inancgumus/screen` package installed
 
 ## Installation
 
